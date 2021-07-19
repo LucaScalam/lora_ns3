@@ -4,4 +4,4 @@ Reproduction of results from publication: "Lora Characteristics Analysis for IoT
 
 The lora module added to ns3 was a design done by Davide Magrin on his Master Thesis: “Network level performances of a LoRa system”
 
-
+There is a file called LoRaWAN_presentation.pdf which contains all the slides used for the presentation of the final project.
